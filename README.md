@@ -1,8 +1,8 @@
-# bloc_firebase_exam
+## Flutter Firebase Bloc Example
 
 A new Flutter project.
+I this project I create project with #BLoc pattern also with firebase intergration.
 
-## Getting Started
 
 This project is a starting point for a Flutter application.
 
